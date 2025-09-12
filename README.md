@@ -4,8 +4,8 @@
 - Uploads resumes in a `pdf` or `txt` format
 - Optional prompt input to filter feedback for specific job roles
 - Automatic Text Extraction
-    - `.txt` -> read directly with `.read()` and `.decode()`
-    - `.pdf` -> parsed using **PyPDF2**
+    - `.txt` → read directly with `.read()` and `.decode()`
+    - `.pdf` → parsed using **PyPDF2**
 - Generates a customized analysis using the **OpenAI API**
 - Clean, interactive interface powered by **Streamlit**
 
